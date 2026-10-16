@@ -6,4 +6,4 @@ maily-detector: Spam-mail detector using distilbert model.
 
 CSS325: design a database for football player market.
 
-Ethical Hacking Pracical Exercise.
+Ethical Hacking Pracical Exercise (There are 17 exercise in this PDF)
